@@ -1,0 +1,1 @@
+delete from {POLLING_LOCATIONS_TABLE} where SOURCE_FILE = %s

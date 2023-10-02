@@ -1,0 +1,1 @@
+DROP TABLE pings_universe.polling_locations_temp
